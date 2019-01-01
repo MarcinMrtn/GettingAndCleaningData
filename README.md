@@ -10,7 +10,7 @@ The description of the souce data set can be found at this website:
 
 The repository contains the following files:
 * R script `run_analysis.R` that performs analysis as required in the course description.
-* A codebook file `CodeBook.md` with description of variables and calculation implemented in the analysis script.
+* A codebook file `CodeBook.md` with description of variables and transformations on data implemented in the analysis script.
 * An output file `data_combined_averages.txt` that contains a clean data set with average values for each variable for each activity and subject.
 
 ## How to run the script?
