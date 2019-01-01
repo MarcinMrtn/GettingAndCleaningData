@@ -15,4 +15,4 @@ The repository contains the following files:
 
 ## How to run the script?
 
-In order to run the script, the working directory must contain the extracted source data set and the script itself.
+In order to run the script, the working directory must contain extracted source data set and the script itself.
