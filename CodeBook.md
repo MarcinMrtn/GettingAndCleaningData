@@ -8,8 +8,8 @@
 
 ## Variables
 
-`x_train`, `x_test` - training and test sets that represent accelerometer and gyroscope measurements loaded from input files
-`y_train`, `y_test` - training and test sets that represent activites loaded form input files
+`x_train`, `x_test` - training and test sets that represent accelerometer and gyroscope measurements loaded from input files  
+`y_train`, `y_test` - training and test sets that represent activites loaded form input files  
 `subject_train`, `subject_test` - training and test sets that represent test subjects loaded from input file
 `X`, `Y`, `S` - measurements, activities and subjects merged
 `features`, `feature_names`, `selected_feature_indices` - features loaded from input file, feature names and indices that represent mean or standard deviation respectively
